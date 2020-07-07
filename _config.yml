@@ -18,9 +18,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "제목"
+title                    : "기록과 정리"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "stevenkim의 블로그"
 name                     : "이름"
 description              : "설명"
 url                      : "stevenkim18.github.io"
