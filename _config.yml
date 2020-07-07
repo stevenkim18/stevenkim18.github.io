@@ -17,11 +17,11 @@ remote_theme : mmistakes/minimal-mistakes
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "ko-Ko"
 title                    : "기록과 정리"
 title_separator          : "-"
-subtitle                 : "stevenkim의 블로그"
-name                     : "이름"
+subtitle                 : ""
+name                     : "stevenkim"
 description              : "설명"
 url                      : "stevenkim18.github.io"
 baseurl                  : ""
@@ -131,7 +131,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/stevenkim18"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
